@@ -12,7 +12,7 @@ I always seek to improve myself, looking for new challenges and experiences in p
 
 - 💻 Computer Technician at EAJ-UFRN
 
-- 👨‍🎓 Studyng bachelor's degree in T.I at Metrópole digital-UFRN
+- 👨‍🎓 Studyng bachelor's degree in I.T at Metrópole digital-UFRN
 
 
 ### Tech Stack ✨ 
