@@ -17,7 +17,7 @@ I always seek to improve myself, looking for new challenges and experiences in p
 
 ### Tech Stack ✨ 
 
-JS, Typescript, HTML, CSS, React, React Native, Highcharts, Git, testes E2E (Cypress), testes unitários (Jest)
+JS, Typescript, HTML, CSS, React, React Native, Highcharts, Git, E2E test (Cypress), unit test (Jest)
 
 ### Contact me 💬
 - 💼 [Linkedin](https://www.linkedin.com/in/atalo-pereira/)
