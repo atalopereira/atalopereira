@@ -8,11 +8,13 @@ I always seek to improve myself, looking for new challenges and experiences in p
 
 - 🇧🇷 Living in Natal/RN Brazil
 
-- 🏡 Currently working from home at [Geowellex Mud Logging](https://www.geowellex.com/)
+- 🏡 Currently working from home at [CWI Software](https://cwi.com.br/)
 
 - 💻 Computer Technician at EAJ-UFRN
 
 - 👨‍🎓 Studyng bachelor's degree in I.T at Metrópole digital-UFRN
+
+- I was an intern for 2 years at [Geowellex Mud Logging](https://www.geowellex.com/)
 
 
 ### Tech Stack ✨ 
